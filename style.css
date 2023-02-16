@@ -128,7 +128,6 @@ html {
 
 /* Grid CSS */
 
-
 @media screen and (min-width: 800px) {
     .container {
         display: grid;
@@ -215,4 +214,8 @@ html {
     align-items: center;
     justify-content: center;
     font-family: Rockwell;
+}
+
+.Contact-Button a {
+    color: white;
 }
